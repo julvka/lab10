@@ -1,3 +1,3 @@
 export default {
-    base: '/lab12/',
+    base: '/lab10/',
   }
